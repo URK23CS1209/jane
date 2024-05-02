@@ -9,6 +9,7 @@ git fetch upstream
  git remote add upstream https://github.com/URK23CS1194/nely.git
  
  git remote -v
+ 
 ippudu branch peru marchaali, manam create chesina rep lo ki velli ===>bran ch lo main badulu kothadi pettali
 
 git fetch upstream
